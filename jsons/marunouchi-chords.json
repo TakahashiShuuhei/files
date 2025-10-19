@@ -1,38 +1,31 @@
 {
-  "title": "4 Chord Progression Practice",
+  "title": "4 Chord Progression Practice (1 Beat Each)",
   "bpm": 120,
   "notes": [
-    {"pitch": 38, "timing": {"beat": 0, "duration": 4}, "velocity": 80},
-    {"pitch": 50, "timing": {"beat": 0, "duration": 4}, "velocity": 80},
-    {"pitch": 57, "timing": {"beat": 0, "duration": 4}, "velocity": 80},
-    {"pitch": 61, "timing": {"beat": 0, "duration": 4}, "velocity": 80},
-    {"pitch": 64, "timing": {"beat": 0, "duration": 4}, "velocity": 80},
-    {"pitch": 66, "timing": {"beat": 0, "duration": 4}, "velocity": 80},
+    {"pitch": 38, "timing": {"beat": 0, "duration": 1}, "velocity": 80}, {"pitch": 50, "timing": {"beat": 0, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 0, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 0, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 0, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 0, "duration": 1}, "velocity": 80},
+    {"pitch": 38, "timing": {"beat": 1, "duration": 1}, "velocity": 80}, {"pitch": 50, "timing": {"beat": 1, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 1, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 1, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 1, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 1, "duration": 1}, "velocity": 80},
+    {"pitch": 38, "timing": {"beat": 2, "duration": 1}, "velocity": 80}, {"pitch": 50, "timing": {"beat": 2, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 2, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 2, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 2, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 2, "duration": 1}, "velocity": 80},
+    {"pitch": 38, "timing": {"beat": 3, "duration": 1}, "velocity": 80}, {"pitch": 50, "timing": {"beat": 3, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 3, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 3, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 3, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 3, "duration": 1}, "velocity": 80},
 
-    {"pitch": 37, "timing": {"beat": 4, "duration": 4}, "velocity": 80},
-    {"pitch": 49, "timing": {"beat": 4, "duration": 4}, "velocity": 80},
-    {"pitch": 59, "timing": {"beat": 4, "duration": 4}, "velocity": 80},
-    {"pitch": 62, "timing": {"beat": 4, "duration": 4}, "velocity": 80},
-    {"pitch": 65, "timing": {"beat": 4, "duration": 4}, "velocity": 80},
+    {"pitch": 37, "timing": {"beat": 4, "duration": 1}, "velocity": 80}, {"pitch": 49, "timing": {"beat": 4, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 4, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 4, "duration": 1}, "velocity": 80}, {"pitch": 65, "timing": {"beat": 4, "duration": 1}, "velocity": 80},
+    {"pitch": 37, "timing": {"beat": 5, "duration": 1}, "velocity": 80}, {"pitch": 49, "timing": {"beat": 5, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 5, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 5, "duration": 1}, "velocity": 80}, {"pitch": 65, "timing": {"beat": 5, "duration": 1}, "velocity": 80},
+    {"pitch": 37, "timing": {"beat": 6, "duration": 1}, "velocity": 80}, {"pitch": 49, "timing": {"beat": 6, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 6, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 6, "duration": 1}, "velocity": 80}, {"pitch": 65, "timing": {"beat": 6, "duration": 1}, "velocity": 80},
+    {"pitch": 37, "timing": {"beat": 7, "duration": 1}, "velocity": 80}, {"pitch": 49, "timing": {"beat": 7, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 7, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 7, "duration": 1}, "velocity": 80}, {"pitch": 65, "timing": {"beat": 7, "duration": 1}, "velocity": 80},
 
-    {"pitch": 30, "timing": {"beat": 8, "duration": 4}, "velocity": 80},
-    {"pitch": 42, "timing": {"beat": 8, "duration": 4}, "velocity": 80},
-    {"pitch": 57, "timing": {"beat": 8, "duration": 4}, "velocity": 80},
-    {"pitch": 61, "timing": {"beat": 8, "duration": 4}, "velocity": 80},
-    {"pitch": 64, "timing": {"beat": 8, "duration": 4}, "velocity": 80},
-    {"pitch": 68, "timing": {"beat": 8, "duration": 4}, "velocity": 80},
+    {"pitch": 30, "timing": {"beat": 8, "duration": 1}, "velocity": 80}, {"pitch": 42, "timing": {"beat": 8, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 8, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 8, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 8, "duration": 1}, "velocity": 80}, {"pitch": 68, "timing": {"beat": 8, "duration": 1}, "velocity": 80},
+    {"pitch": 30, "timing": {"beat": 9, "duration": 1}, "velocity": 80}, {"pitch": 42, "timing": {"beat": 9, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 9, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 9, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 9, "duration": 1}, "velocity": 80}, {"pitch": 68, "timing": {"beat": 9, "duration": 1}, "velocity": 80},
+    {"pitch": 30, "timing": {"beat": 10, "duration": 1}, "velocity": 80}, {"pitch": 42, "timing": {"beat": 10, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 10, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 10, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 10, "duration": 1}, "velocity": 80}, {"pitch": 68, "timing": {"beat": 10, "duration": 1}, "velocity": 80},
+    {"pitch": 30, "timing": {"beat": 11, "duration": 1}, "velocity": 80}, {"pitch": 42, "timing": {"beat": 11, "duration": 1}, "velocity": 80}, {"pitch": 57, "timing": {"beat": 11, "duration": 1}, "velocity": 80}, {"pitch": 61, "timing": {"beat": 11, "duration": 1}, "velocity": 80}, {"pitch": 64, "timing": {"beat": 11, "duration": 1}, "velocity": 80}, {"pitch": 68, "timing": {"beat": 11, "duration": 1}, "velocity": 80},
 
-    {"pitch": 33, "timing": {"beat": 12, "duration": 4}, "velocity": 80},
-    {"pitch": 45, "timing": {"beat": 12, "duration": 4}, "velocity": 80},
-    {"pitch": 55, "timing": {"beat": 12, "duration": 4}, "velocity": 80},
-    {"pitch": 59, "timing": {"beat": 12, "duration": 4}, "velocity": 80},
-    {"pitch": 62, "timing": {"beat": 12, "duration": 4}, "velocity": 80},
-    {"pitch": 66, "timing": {"beat": 12, "duration": 4}, "velocity": 80}
+    {"pitch": 33, "timing": {"beat": 12, "duration": 1}, "velocity": 80}, {"pitch": 45, "timing": {"beat": 12, "duration": 1}, "velocity": 80}, {"pitch": 55, "timing": {"beat": 12, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 12, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 12, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 12, "duration": 1}, "velocity": 80},
+    {"pitch": 33, "timing": {"beat": 13, "duration": 1}, "velocity": 80}, {"pitch": 45, "timing": {"beat": 13, "duration": 1}, "velocity": 80}, {"pitch": 55, "timing": {"beat": 13, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 13, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 13, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 13, "duration": 1}, "velocity": 80},
+    {"pitch": 33, "timing": {"beat": 14, "duration": 1}, "velocity": 80}, {"pitch": 45, "timing": {"beat": 14, "duration": 1}, "velocity": 80}, {"pitch": 55, "timing": {"beat": 14, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 14, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 14, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 14, "duration": 1}, "velocity": 80},
+    {"pitch": 33, "timing": {"beat": 15, "duration": 1}, "velocity": 80}, {"pitch": 45, "timing": {"beat": 15, "duration": 1}, "velocity": 80}, {"pitch": 55, "timing": {"beat": 15, "duration": 1}, "velocity": 80}, {"pitch": 59, "timing": {"beat": 15, "duration": 1}, "velocity": 80}, {"pitch": 62, "timing": {"beat": 15, "duration": 1}, "velocity": 80}, {"pitch": 66, "timing": {"beat": 15, "duration": 1}, "velocity": 80}
   ],
   "memos": [
-    {"timing": {"beat": 0}, "text": "DM7(add9)", "align": "center", "color": "blue"},
-    {"timing": {"beat": 4}, "text": "C#7(b9, #11)", "align": "center", "color": "purple"},
-    {"timing": {"beat": 8}, "text": "F#m7(9)", "align": "center", "color": "green"},
-    {"timing": {"beat": 12}, "text": "A7(9, 13)", "align": "center", "color": "orange"}
+    {"timing": {"beat": 0}, "text": "DM7(add9)", "align": "left", "color": "blue"},
+    {"timing": {"beat": 4}, "text": "C#7(b9, #11)", "align": "left", "color": "blue"},
+    {"timing": {"beat": 8}, "text": "F#m7(9)", "align": "left", "color": "blue"},
+    {"timing": {"beat": 12}, "text": "A7(9, 13)", "align": "left", "color": "blue"}
   ]
 }
